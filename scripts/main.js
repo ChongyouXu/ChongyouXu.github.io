@@ -16,14 +16,16 @@ function setHeading(name) {
 }
 function setUserName() {
     let myName = prompt('请输入你的名字');
-    if(myName!=null&&myName!==''){
-        localStorage.setItem('name', myName);
+      localStorage.setItem('name', myName);
         setHeading(myName);
-    }
-    else{
-        alert("请输入正确的名字!");
-        setUserName();
-    }
+    //if(myName!=null&&myName!==''){
+    //  localStorage.setItem('name', myName);
+     //   setHeading(myName);
+   // }
+  //  else{
+     //   alert("请输入正确的名字!");
+     //   setUserName();
+   // }
    
     
 
