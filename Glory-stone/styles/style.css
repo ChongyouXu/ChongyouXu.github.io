@@ -48,9 +48,9 @@ body{
       margin-top: 0;
       margin-left: 150px;
   }
-  a.hover,
-  a.active,
-  a.focus{
+  a:hover,
+  a:active,
+  a:focus{
     color:darkred;
     text-decoration:none;
   }
