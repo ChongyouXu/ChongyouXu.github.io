@@ -42,9 +42,16 @@ body{
      font-weight:bold;
      fontsize:15px;
   }
+
   .jump{
       font-size: 20px;
       margin-top: 0;
       margin-left: 150px;
+  }
+  a.hover,
+  a.active,
+  a.focus{
+    color:darkred;
+    text-decoration:none;
   }
 
