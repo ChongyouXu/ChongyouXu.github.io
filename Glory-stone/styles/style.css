@@ -43,3 +43,7 @@ body{
       margin-top: 0;
       margin-left: 150px;
   }
+  a{
+     font-weight:bold;
+      fontsize:15px;
+  }
