@@ -3,8 +3,9 @@
     "",
     "\\Glory-stone",
     "\\Glory-stone\\images",
-    "\\Glory-stone\\scripts"
+    "\\Glory-stone\\scripts",
+    "\\Glory-stone\\styles"
   ],
-  "SelectedNode": "\\Glory-stone\\qq-regulations.html",
+  "SelectedNode": "\\Glory-stone\\styles\\style.css",
   "PreviewInSolutionExplorer": false
 }
