@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Glory-stone",
-    "\\Glory-stone\\styles"
+    "\\Glory-stone\\images",
+    "\\Glory-stone\\scripts",
+    "\\Glory-stone\\styles",
+    "\\images"
   ],
-  "SelectedNode": "\\Glory-stone\\qq-regulations.html",
+  "SelectedNode": "\\Glory-stone\\coc-regulations.html",
   "PreviewInSolutionExplorer": false
 }
